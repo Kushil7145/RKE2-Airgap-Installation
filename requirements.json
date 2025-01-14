@@ -1,0 +1,17 @@
+{
+    "RKE2_version": "<rke2_version>",
+    "masters": [
+        {
+            "username": "<master_username>",
+            "ip": "<master_ip>"
+        }
+    ],
+    "workers": [
+        {
+            "username": "<worker_username>",
+            "ip": "<worker_ip>"
+        }
+    ]
+}
+
+
